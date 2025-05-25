@@ -14,22 +14,22 @@
     "env": {
         "API_ID": {
             "description": "enter_your_api_id",
-            "value": "",
+            "value": "24858402",
             "required": true
         },
         "API_HASH": {
             "description": "enter_your_api_harsh",
-            "value": "",
+            "value": "eeff2fe9ee10d03c5c02177c60bcd580",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token",
-            "value": "",
+            "value": "7601787161:AAFwl9E4qKfqzPDPMAuxchi8o9BbB2vmtwg",
             "required": true
         },
         "OWNER_ID":{
             "description": "Enter your classplus token",
-            "value": "",
+            "value": "7092107565",
             "required": true
         }
     },
